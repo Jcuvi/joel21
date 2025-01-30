@@ -8,6 +8,6 @@ resta <- function(a, b) {
 }
 
 poten <- function(a, b) {
-  m <- a^b
-  print(m)
+  p <- a^b
+  print(p)
 }
